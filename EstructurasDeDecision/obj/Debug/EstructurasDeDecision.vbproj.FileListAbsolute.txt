@@ -1,0 +1,11 @@
+C:\Users\Hikaros\Desktop\POO\EstructurasDeDecision\EstructurasDeDecision\bin\Debug\EstructurasDeDecision.exe.config
+C:\Users\Hikaros\Desktop\POO\EstructurasDeDecision\EstructurasDeDecision\bin\Debug\EstructurasDeDecision.exe
+C:\Users\Hikaros\Desktop\POO\EstructurasDeDecision\EstructurasDeDecision\bin\Debug\EstructurasDeDecision.pdb
+C:\Users\Hikaros\Desktop\POO\EstructurasDeDecision\EstructurasDeDecision\bin\Debug\EstructurasDeDecision.xml
+C:\Users\Hikaros\Desktop\POO\EstructurasDeDecision\EstructurasDeDecision\obj\Debug\EstructurasDeDecision.vbprojResolveAssemblyReference.cache
+C:\Users\Hikaros\Desktop\POO\EstructurasDeDecision\EstructurasDeDecision\obj\Debug\EstructurasDeDecision.Resources.resources
+C:\Users\Hikaros\Desktop\POO\EstructurasDeDecision\EstructurasDeDecision\obj\Debug\EstructurasDeDecision.vbproj.GenerateResource.Cache
+C:\Users\Hikaros\Desktop\POO\EstructurasDeDecision\EstructurasDeDecision\obj\Debug\EstructurasDeDecision.vbproj.CoreCompileInputs.cache
+C:\Users\Hikaros\Desktop\POO\EstructurasDeDecision\EstructurasDeDecision\obj\Debug\EstructurasDeDecision.exe
+C:\Users\Hikaros\Desktop\POO\EstructurasDeDecision\EstructurasDeDecision\obj\Debug\EstructurasDeDecision.xml
+C:\Users\Hikaros\Desktop\POO\EstructurasDeDecision\EstructurasDeDecision\obj\Debug\EstructurasDeDecision.pdb
